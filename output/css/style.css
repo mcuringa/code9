@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,900,700,500|Crete+Round);
+@import url('fonts/3Dumb.tff');
+@import url('fonts/2Dumb.tff');
+
+body
+{
+    background: url("img/scratchy.png") no-repeat left top #6A82AD;
+
+}
+
+h1
+{
+    font-weight: bold;
+    font-family: '3Dumb', sans-serif;
+    font-size: 400%;
+}
+
+h2
+{
+    /*font-family: 'Orbitron', sans-serif;*/
+    /*font-weight: 700;*/
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    font-size: 280%;
+}
+
+.container
+{
+    max-width: 720px;
+}
+
+/* nav bar stuff */
+.navbar-default
+{
+    background: transparent url("img/cc9-logo.png") no-repeat scroll left center / auto 100%;
+    border-style: none;
+    color: white;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 120%;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover
+{
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+}
+
+section#main p, section#main li
+{
+    font-family: 'Crete Round', serif;
+}
+
+section#main p
+{
+    hyphens: auto;
+    text-align: justify;
+}
+
+section#main
+{
+    /*background-color: rgba(0,0,0,.9);*/
+    color: white;
+    padding: 1em;
+    border-radius: 16px;
+    border-style: none;
+}
+.page-header
+{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 1em;
+    /*background-image: linear-gradient(to bottom right, #fffbff, transparent);*/
+    text-shadow: 2px 2px black;
+    border-style: none;
+}
+
+
+body#home
+{
+    background-image: url("/img/diego-fi-robotics.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home .page-header
+{
+    display: none;
+}
+
+#home section#main
+{
+    background: transparent;
+    border-style: none;
+    padding-top: 4em;
+}
+
+#home h2
+{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: 300%;
+    text-shadow: 2px 2px black;
+}
