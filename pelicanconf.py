@@ -32,10 +32,10 @@ DEFAULT_PAGINATION = True
 
 STATIC_PATHS = ['img', 'res', 'css', 'js']
 
-THEME = "/home/mxc/Documents/code9/themes/code9"
+THEME = "themes/code9"
 
 
-PLUGIN_PATHS = ['/home/mxc/Documents/pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['pandoc_reader']
 
 PANDOC_ARGS = [

@@ -8,4 +8,3 @@ Weight: 0
 
 
 <h2>Problem Solving.<br>Creativity.<br>Code.</h2>
-<img src="/img/logo.png" alt="cc9 logo" class="middle img-responsive">
