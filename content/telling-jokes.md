@@ -1,7 +1,8 @@
 Title: Session 1: Telling Jokes
 Date: Thu Jan  7 17:36:39 EST 2016
 Category: Lessons
-Tags: scratch basics, scratch, who's there?, jokes, parallel thinking, low floor-high ceiling
+Tags: scratch basics, scratch, knock-knock, jokes, parallel thinking, low floor-high ceiling
+Summary: In our first session we will focus on getting to know each other, tell some jokes, and write some code.
 
 Overview
 -----------------------------------------

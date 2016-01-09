@@ -2,7 +2,10 @@
 {% block title %} Articles in {{ category }} category - {{ SITENAME }}{% endblock %}
 {% block navclass %}{%endblock%}
 {% block archclass %} class="active"{%endblock%}
+
 {% block content_title %}
-<h2>Articles in the {{ category }} category</h2>
+<header class="page-header">
+    <h1>Category.{{ category }}</h1>
+</header>
 {% endblock %}
 
