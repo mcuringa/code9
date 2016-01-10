@@ -2,7 +2,6 @@
 @import url('fonts/3Dumb.tff');
 @import url('fonts/2Dumb.tff');
 
-
 body
 {
 
@@ -30,7 +29,7 @@ h1
 {
     font-weight: bold;
     font-family: '3Dumb', sans-serif;
-    /*font-size: 400%;*/
+    font-size: 200%;
 }
 
 h2
@@ -51,6 +50,7 @@ h2
 
 .navbar-default .navbar-nav > li > a {
     font-size: 130%;
+    font-family: 'Oribitron', sans-serif;
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
@@ -106,4 +106,3 @@ section#main
     font-weight: 900;
     font-size: 300%;
 }
-

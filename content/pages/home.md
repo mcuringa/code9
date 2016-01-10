@@ -7,4 +7,4 @@ Summary: Code Club 9 is a computer programming after school enrichment class at 
 Weight: 0
 
 
-<h2>Problem Solving.<br>Creativity.<br>Code.</h2>
+<img src="/img/CodeClub9-Main.png" alt="problem solving. creativity. code.">

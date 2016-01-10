@@ -5,12 +5,10 @@ Slug: roster
 Authors: mxc
 Summary: Code Club 9 membership roster with links to their scratch profiles.
 Weight: 20
-{% set roster = [('dryc', '6060022'), ('mcuringa', 'About')] %}
-
-<p class="lead">
-These are the current _Code Club 9_ members on [Scratch](http://scratch.mit.edu). They only go by their Scratch usernames here to protect the awesome. Please checkout and remix our code!
-</p>
-
+    <p class="lead">
+    These are the current _Code Club 9_ members on [Scratch](http://scratch.mit.edu). They only go by their Scratch usernames here to protect the awesome. Please checkout and remix our code!</p>
+    
+<div>
 <ul class="media-list">
 <li class="media">
 <div class="media-left media-middle">
@@ -21,8 +19,7 @@ These are the current _Code Club 9_ members on [Scratch](http://scratch.mit.edu)
 <div class="media-body"><a href="https://scratch.mit.edu/users/dryc/" title="see dryc's scratch projects">dryc</a></div>
 </li>
 </ul>
-
-
+</div>
 
 - [dryc]()
 - [fjyc](https://scratch.mit.edu/users/fjyc/)
