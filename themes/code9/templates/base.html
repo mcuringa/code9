@@ -17,7 +17,7 @@
 
     <body id="{% block pageid %}index{% endblock pageid%}"
           class="container {% block pagclass %}archive{% endblock pagclass %}">
-        <div id="wrapper" class="row">
+        <div id="wrapper">
             <div class="header">
                 <nav class="navbar navbar-default">
                     <a href="/" title="go home"><img src="/img/logo_sm.png" alt="code club 9 logo"></a>
@@ -30,6 +30,7 @@
                 </nav>
             </div>
             <section id="main">
+                {% block content_title %}{% endblock %}
                 {% block content %}{% endblock %}
             </section>
             <footer id="contentinfo" class="footer"></footer><!-- /#contentinfo -->
