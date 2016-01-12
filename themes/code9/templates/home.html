@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{%endblock%}
+{% block pageid %}{{ page.slug }}{% endblock pageid %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-6">
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+
+    {{ page.content }}
+    </div>
+
+    <div class="col-md-6">
+        <h3 class="no-margin-top">Club news:</h3>
+        {% for article in articles[:3] %}
+            <article class="hentry">
+                <h4><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h4>
+                <div class="text-muted">{{article.locale_date}} by {{article.author}}</div>
+                <p>{{ article.summary }}</p><!-- entry-content -->
+            </article>
+        {% endfor %}
+
+    </div>
+</div>
+
+
+{% endblock content %}
