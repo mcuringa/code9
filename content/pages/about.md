@@ -6,6 +6,7 @@ Authors: mxc
 Summary: Code Club 9 is an after school enrichment computer programming class for kids at PS 9 Brooklyn which focuses on creativity and problem solving with computers.
 Weight: 10
 
+<img src="/img/scratch-left.png" class="pull-right img-responsive" alt="blocks of scratch code">
 In Code Club, kids have fun while learning the fundamentals of computer
 science. We focus on the creative and problem solving aspects of
 computer science, and using the tools of computing to understand the
@@ -35,13 +36,15 @@ lab for a 90-minute session. Code Club meets on Wednesdays from
 
 About the Facilitators
 ----------------------
-Matt Curinga is Assistant Professor of Educational Technology at
-Adelphi University where he teaches courses in instructional design,
+<img src="/img/mxc-csed-sq.jpg" alt="photo of matt" class="img-circle pull-left">
+[Matt Curinga](http://matt.curinga.com) is Assistant Professor of
+[Educational Technology at Adelphi University](http://www.auedtech.org) where he teaches courses in instructional design,
 media studies, and computer science. Among other projects, he studies
-how to teach computer science and is the developer of PyTutor, an
+how to teach computer science and is the developer of [PyTutor](http://www.pytutor.org), an
 interactive platform where beginners can study computer science
 together online.
 
+<img src="/img/loreto-linked.jpg" alt="photo of loreto" class="img-circle pull-right">
 Loreto Dumitrescu is an occupational therapist and tinkerer with a
 driven in interest in unlocking the ways technology can help bring out
 best in each student. She is a recent graduate in from Adelphi

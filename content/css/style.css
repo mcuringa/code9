@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Orbitron:400,900,700,500|Crete+Round);
-@import url('fonts/3Dumb.tff');
-@import url('fonts/2Dumb.tff');
+@import url('/css/fonts/3Dumb.tff');
+@import url('/css/fonts/2Dumb.tff');
 
 body
 {
@@ -38,6 +38,10 @@ h2
     /*font-size: 280%;*/
 }
 
+.no-margin-top { margin-top: 0;}
+.no-margin-bottom { margin-bottom: 0;}
+.no-margin { margin: 0;}
+
 
 /* nav bar stuff */
 .navbar-default
@@ -66,8 +70,14 @@ h2
     color: black;
 }
 
-
-
+img.pull-right
+{
+    margin-left: 1em;
+}
+img.pull-left
+{
+    margin-right: 1em;
+}
 
 section#main p, section#main li
 {
