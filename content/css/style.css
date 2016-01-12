@@ -1,9 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Orbitron:400,900,700,500|Crete+Round);
-@import url('/css/fonts/2Dumb.ttf');
-@import url('/css/fonts/3Dumb.ttf');
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Orbitron-Light'), local('Orbitron-Regular'), url(https://fonts.gstatic.com/s/orbitron/v7/HmnHiRzvcnQr8CjBje6GQvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+}
 
 @font-face {
-    font-family: 3Dumb;
+    font-family: Dumb3D;
     src: url('/css/fonts/3Dumb.ttf');
 }
 
@@ -29,24 +32,38 @@ body
 .container
 {
     max-width: 720px;
+    padding-left: 0;
+    padding-right: 0;
     
 }
-footer.container
+#contentinfo
 {
-    margin: 0 auto;
+    background-color: #f3f3f3;
+    border-top: 1px solid gray;
+    padding: 1em 0;
+    font-size: 90%;
+}
+
+#contentinfo .container
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1em;
 }
 
 h1
 {
-    font-weight: bold;
-    font-family: '3Dumb', sans-serif;
+    font-weight: 400;
+    font-family: 'Dumb3D', sans-serif;
     font-size: 200%;
 }
 
 h2
 {
     font-weight: bold;
-    /*font-size: 280%;*/
+    font-family: 'Orbitron', sans-serif;
+    font-size: 130%;
+
 }
 
 .no-margin-top { margin-top: 0;}
@@ -60,12 +77,11 @@ h2
     border-style: none;
     background-color: white;
     margin: 0;
-    padding: 1em;
 }
 
 .navbar-default .navbar-nav > li > a {
     font-size: 130%;
-    font-family: 'Oribitron', sans-serif;
+    font-family: 'Orbitron', sans-serif;
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
@@ -112,18 +128,4 @@ section#main
 #home .page-header
 {
     display: none;
-}
-
-#home section#main
-{
-    background: white;
-    border-style: none;
-    padding-top: 4em;
-}
-
-#home h2
-{
-    font-family: 'Orbitron', sans-serif;
-    font-weight: 900;
-    font-size: 300%;
 }
