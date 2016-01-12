@@ -18,13 +18,24 @@
         <div id="wrapper">
             <div class="header">
                 <nav class="navbar navbar-default">
-                    <a href="/" title="go home"><img src="/img/logo_sm.png" alt="code club 9 logo"></a>
-                    <ul class="nav navbar-nav pull-right">
-                        <li class="active"><a href="/">Home</a></li>
-                        <li><a href="/pages/about.html">About</a></li>
-                        <li><a href="/pages/roster.html">Club&nbsp;Roster</a></li>
-                        <li><a href="/archives.html">Latest News</a></li>
-                    </ul>
+
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/" title="go home"><img src="/img/logo_sm.png" alt="code club 9 logo"></a>
+                    </div>
+                    <div class="collapse navbar-collapse navbar-right" id="main-nav">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="/">Home</a></li>
+                            <li><a href="/pages/about.html">About</a></li>
+                            <li><a href="/pages/roster.html">Club&nbsp;Roster</a></li>
+                            <li><a href="/archives.html">Latest News</a></li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
             <section id="main">
@@ -56,9 +67,11 @@
 
 
             </section>
-            <footer id="contentinfo" class="footer navbar navbar-default navbar-fixed-bottom container">
-                <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" class="pull-left">
-                <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CodeClub9</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://codelcub.nyc" property="cc:attributionName" rel="cc:attributionURL">http://codelcub.nyc</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            <footer id="contentinfo" class="footer navbar navbar-default navbar-fixed-bottom">
+                <div class="container">
+                    <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" class="pull-left">
+                    <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CodeClub9</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://codelcub.nyc" property="cc:attributionName" rel="cc:attributionURL">http://codelcub.nyc</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Lessons and other content are <a href="https://github.com/mcuringa/code9" title="go to the github repo for code9">available on github</a>.
+                </div>
             </footer><!-- /#contentinfo -->
         </div><!-- container -->
     </body>
