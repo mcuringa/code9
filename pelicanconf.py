@@ -51,3 +51,4 @@ PANDOC_ARGS = [
 # ]
 
 PAGE_ORDER_BY = 'weight'
+TYPOGRIFY = True
