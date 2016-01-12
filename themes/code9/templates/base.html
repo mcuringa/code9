@@ -18,7 +18,7 @@
     <body id="{% block pageid %}index{% endblock pageid%}"
           class="container {% block pagclass %}archive{% endblock pagclass %}">
         <div id="wrapper">
-            <div class="header">
+            <header id="top-header" class="header">
                 <nav class="navbar navbar-default">
 
                     <div class="navbar-header">
@@ -39,7 +39,7 @@
                         </ul>
                     </div>
                 </nav>
-            </div>
+            </header>
             <section id="main">
                 {% block content_title %}{% endblock %}
                 {% block content %}{% endblock %}
