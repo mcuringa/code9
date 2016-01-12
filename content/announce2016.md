@@ -1,43 +1,25 @@
 Title: Announcing Code Club 9, 2016
-Date: Fri Nov 20 14:20:24 EST 2015
+Date: Monday January 11 14:20:24 EST 2015
 Category: News
 Tags: sign up now, hello world
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus.
-Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec
-consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero
-egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem
-lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida
-lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque
-auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit
-pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices
-accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada
-arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes,
-nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem
-facilisis semper ac in est.
+Welcome parents and coders to the 2016 Winter Session of Code Club 9.  This session we will introduce new and returning coders to the Scratch platform to make games and multimedia projects. The aim of our club is to introduce budding coders to programming principles and foster a love of inventing, creating, problem solving, and learning.
 
-Vivamus fermentum semper porta. Nunc diam velit, adipiscing ut tristique vitae,
-sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare,
-ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem
-nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non
-tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et,
-tincidunt et orci. Fusce eget orci a orci congue vestibulum. Ut dolor diam,
-elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar
-tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo.
-Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis
-facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus
-convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt,
-purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel
-volutpat elit. Nam sagittis nisi dui.
+Sessions will be held at the PS 9 computer lab on Wednesdays from 4:00 to 5:30 on the following dates:
+Jan 13, 20, 27
+Feb 3,10,24
+March 2,9,16,23
 
-Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque.
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis
-nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut
-justo vel sapien venenatis tincidunt. Phasellus eget dolor sit amet ipsum
-dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus
-convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut
-augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat
-justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas
-quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna
-cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+For the first session please be sure to have started a Scratch account for your child. Accounts can be created at the following link (scratch.mit.edu). If you have multiple children attending the club be sure to have an account for each child. Scratch is a free web based tool created by MIT which we will be using primarily to create our projects. Once you have the username and password, please share this information with us so we may facilitate logging in. For convenience, please fill out the following form:
+
+http://goo.gl/forms/d7Lt12eOJ6
+
+For updates and information please be sure to check out our website site: codeclub.nyc however weekly updates will also be emailed to you about the projects completed that week and possible extension activities for home.
+
+To start out first two weeks, we will be creating a knock knock joke so get your funny bone ready. More details about this project can be found here:
+
+http://codeclub.nyc/telling-jokes.html
+
+For questions, comments, or concerns please do not hesitate to contact us at loreto@loreto.nyc or matt@curinga.com. 
+
+Happy Coding!
