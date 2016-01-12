@@ -1,11 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Orbitron:400,900,700,500|Crete+Round);
-@import url('/css/fonts/3Dumb.tff');
-@import url('/css/fonts/2Dumb.tff');
+@import url('/css/fonts/2Dumb.ttf');
+@import url('/css/fonts/3Dumb.ttf');
+
+@font-face {
+    font-family: 3Dumb;
+    src: url('/css/fonts/3Dumb.ttf');
+}
 
 body
 {
 
     background-color: #f3f3f3;
+    padding-bottom: 70px;
 }
 
 #wrapper
@@ -23,6 +29,11 @@ body
 .container
 {
     max-width: 720px;
+    
+}
+footer.container
+{
+    margin: 0 auto;
 }
 
 h1
