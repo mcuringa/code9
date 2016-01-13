@@ -3,10 +3,30 @@
 {% block content %}
     {{page.content}}
 
-    {% set roster = [('dryc', '6060022'), ('fjyc','13543288'), ('mcuringa', '2602858'),  ('loretod', '2452243'), ('5hgg', '8341934'), ('natedogg', '150488'), ('CarloFlores','14367672'), ('DavidCase', '14358120')] %}
+{% 
+    set roster = [('5hgg', '8341934'), ('CarloFlores', '14367672'), ('DavidCase', '14358120'), ('dryc', '6060022'), ('fjyc', '13543288'), ('natedogg', '150488'), ('nicolasrw15', '7583582'), ('nikaboomgoesthebomb', 'foo'), ('niko2205', 'foo'), ('Eziomiles07', 'foo'), ('TARDISkid', 'foo'), ('xandyrim', 'foo'),]
+ %}
 
+ {% set instructors = [('loretod', '2452243'), ('mcuringa', '2602858')] %}
+
+
+
+    <h2>the students</h2>
     <div class="row">
         {% for user, img in roster %}
+            <div class="col-xs-6 col-md-4">
+                <div class="thumbnail text-center">
+                    <a href="https://scratch.mit.edu/users/{{user}}/"><img alt="{{user}}'s profile pic"
+                       src="https://cdn2.scratch.mit.edu/get_image/user/{{img}}_80x80.png"></a>
+                    <caption><strong><a href="https://scratch.mit.edu/users/{{user}}/">{{user}}</a></strong></caption>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    <h2>the instructors</h2>
+
+    <div class="row">
+        {% for user, img in instructors %}
             <div class="col-xs-6 col-md-3">
                 <div class="thumbnail text-center">
                     <a href="https://scratch.mit.edu/users/{{user}}/"><img alt="{{user}}'s profile pic"
@@ -16,5 +36,6 @@
             </div>
         {% endfor %}
     </div>
+
 
 {% endblock %}
