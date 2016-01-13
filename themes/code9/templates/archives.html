@@ -10,17 +10,15 @@
 {%endblock%}
 
 {% block content %}
+<img src="/img/scratchy-news.png" alt="scratch with a newspaper" class="pull-right">
 <dl>
-    {% for year, date_year in dates|groupby( 'date.year' )|sort(reverse=True) %}  
-        <h3>Posts from {{ year }}</h3>
+    {% for article in articles %}  
         <ul class="archive-list list-unstyled">
-        {% for article in date_year %}
             <li>
                 <h4><a href="{{ SITEURL }}/{{ article.url }}">{{article.title}}</a></h4>
                 <span class="text-muted">{{article.locale_date}} by {{article.author}}</span>
                 <p>{{article.summary}}</p>
             </li>
-        {% endfor %}
         </ul>
     {% endfor %}
 </dl>
