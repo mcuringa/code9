@@ -50,3 +50,8 @@ driven in interest in unlocking the ways technology can help bring out
 best in each student. She is a recent graduate in from Adelphi
 University with a Masters in Educational Technology. Her practice focus
 is in assistive technology and Universal Design for Learning.
+
+
+<img src="/img/dom.jpg" alt="photo of dominick" class="img-circle pull-left">
+Dominick Ryan is a PS 9 parent and an officer with the [PS9 Parent Teacher Organization (PTO)](http://www.ps9brooklyn.org/our-families/ps-9-pto/pto-officers/). As a CPA, Dominick integrates computing and mathematics into his daily work, and he's interested in finding ways to further enrich PS 9's curriculum through instruction in coding and computer science.
+
