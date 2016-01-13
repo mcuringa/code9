@@ -37,21 +37,27 @@ lab for a 90-minute session. Code Club meets on Wednesdays from
 About the Facilitators
 ----------------------
 <img src="/img/mxc-csed-sq.jpg" alt="photo of matt" class="img-circle pull-left">
-[Matt Curinga](http://matt.curinga.com) is Assistant Professor of
-[Educational Technology at Adelphi University](http://www.auedtech.org) where he teaches courses in instructional design,
-media studies, and computer science. Among other projects, he studies
-how to teach computer science and is the developer of [PyTutor](http://www.pytutor.org), an
-interactive platform where beginners can study computer science
-together online.
+
+[Matt Curinga](http://matt.curinga.com) is Assistant Professor of [Educational
+Technology at Adelphi University](http://www.auedtech.org) where he teaches
+courses in instructional design, media studies, and computer science. Among
+other projects, he studies how to teach computer science and is the developer
+of [PyTutor](http://www.pytutor.org), an interactive platform where beginners
+can study computer science together online.
 
 <img src="/img/loreto-linked.jpg" alt="photo of loreto" class="img-circle pull-right">
 Loreto Dumitrescu is an occupational therapist and tinkerer with a
-driven in interest in unlocking the ways technology can help bring out
-best in each student. She is a recent graduate in from Adelphi
-University with a Masters in Educational Technology. Her practice focus
-is in assistive technology and Universal Design for Learning.
+driven interest in unlocking the ways technology can help bring out
+the best in each student. She is a recent graduate from Adelphi
+University with a Masters in Educational Technology. Her OT practice focuses
+on assistive technology and Universal Design for Learning.
 
 
 <img src="/img/dom.jpg" alt="photo of dominick" class="img-circle pull-left">
-Dominick Ryan is a PS 9 parent and an officer with the [PS9 Parent Teacher Organization (PTO)](http://www.ps9brooklyn.org/our-families/ps-9-pto/pto-officers/). As a CPA, Dominick integrates computing and mathematics into his daily work, and he's interested in finding ways to further enrich PS 9's curriculum through instruction in coding and computer science.
+
+Dominick Ryan is a PS 9 parent and an officer with the [PS9 Parent Teacher
+Organization (PTO)](http://www.ps9brooklyn.org/our-families/ps-9-pto/pto-
+officers/). As a CPA, Dominick integrates computing and mathematics into his
+daily work, and he's interested in finding ways to further enrich PS 9's
+curriculum through instruction in coding and computer science.
 
