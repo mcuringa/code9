@@ -10,5 +10,5 @@ We were very impressed with their engagement and the enthusiasm the brought to t
 
 Today students worked with partners on using Scratch to tell a joke. Since all of the Scratch work is online, the students can show you their work from home. The should go to <http://scratch.mit.edu> and then log in (upper right) with the username and password you created. We created accounts with some students today, in which case we'll send out the log in credentials via email.
 
-After logging in, choose `my stuff` from the menu under the username (again, upper right). From this screen you can see all of the projects.
+After logging in, choose `my stuff` from the menu under the username (again, upper right). From this screen you can see all of the projects. 
 
