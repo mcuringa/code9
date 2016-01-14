@@ -6,14 +6,14 @@ Tags: parents, session 1, extension
 Summary: Code Club got off to a great start where students worked in pairs to code up some funny jokes.
 
 <p class="lead">We got off to a great start in Code Club yesterday, where students jumped in and started coding right away.
-We were very impressed with their engagement and the enthusiasm the brought to the projects.</p>
+We were very impressed with their engagement and the enthusiasm they brought to the projects.</p>
 
 <div class="pull-right thumbnail">
 <img src="/img/gobo-ginger.png" class="img-responsive">
 <caption>_Gingerbread Gobo_, Tomas & Ezio's project</caption>
 </div>
 
-Yesterday students worked with partners on using Scratch to tell a joke. Since all of the Scratch work is online, the students can show you their work from home. They should go to <http://scratch.mit.edu> and then log in (upper right) with the username and password you created. We created accounts with some students today, in which case we'll send out the log in credentials via email.
+Yesterday students worked with partners on using Scratch to tell a joke. Since all of the Scratch work is online, the students can show you their work from home. They should go to <http://scratch.mit.edu> and then log in (upper right) with the username and password you created. We created accounts with some students yesterday, in which case we'll send out the log in credentials via email.
 
 After logging in, choose `my stuff` from the menu under the username (again, upper right). From this screen you can see all of the projects. If their work from class is not there, it might be posted under their partner's name. Links to student Scratch pages are [available on our roster.](/pages/roster.html) Additionally, we are adding "jokes" to our [Scratch Knock Knock Jokes Studio](https://scratch.mit.edu/studios/1801850/activity/).
 
