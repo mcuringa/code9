@@ -102,7 +102,7 @@ h2
     color: black;
 }
 
-img.pull-right
+img.pull-right, .thumbnail.pull-right
 {
     margin-left: 1em;
 }
