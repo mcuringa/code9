@@ -57,7 +57,7 @@ on assistive technology and Universal Design for Learning.
 
 Dominick Ryan is a PS 9 parent and an officer with the [PS9 Parent Teacher
 Organization (PTO)](http://www.ps9brooklyn.org/our-families/ps-9-pto/pto-
-officers/). As a CPA, Dominick integrates computing and mathematics into his
+officers/). As an accountant, Dominick integrates computing and mathematics into his
 daily work, and he's interested in finding ways to further enrich PS 9's
 curriculum through instruction in coding and computer science.
 

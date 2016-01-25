@@ -10,7 +10,7 @@ We were very impressed with their engagement and the enthusiasm they brought to 
 
 <div class="pull-right thumbnail">
 <img src="/img/gobo-ginger.png" class="img-responsive">
-<caption>_Gingerbread Gobo_, Tomas & Ezio's project</caption>
+<caption>_Gingerbread Gobo_, David & Ezio's project</caption>
 </div>
 
 Yesterday students worked with partners on using Scratch to tell a joke. Since all of the Scratch work is online, the students can show you their work from home. They should go to <http://scratch.mit.edu> and then log in (upper right) with the username and password you created. We created accounts with some students yesterday, in which case we'll send out the log in credentials via email.

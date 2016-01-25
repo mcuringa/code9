@@ -134,3 +134,11 @@ section#main
 {
     display: none;
 }
+
+
+
+
+#roster .thumbnail
+{
+    /*min-height: 106px;*/
+}
