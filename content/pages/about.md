@@ -45,6 +45,9 @@ other projects, he studies how to teach computer science and is the developer
 of [PyTutor](http://www.pytutor.org), an interactive platform where beginners
 can study computer science together online.
 
+<img src="/img/mxc-csed-sq.jpg" alt="photo of matt" class="img-circle pull-left">
+David Frackman is smart and know how to code. 
+
 <img src="/img/loreto-linked.jpg" alt="photo of loreto" class="img-circle pull-right">
 Loreto Dumitrescu is an occupational therapist and tinkerer with a
 driven interest in unlocking the ways technology can help bring out
