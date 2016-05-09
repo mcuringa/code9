@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/mxc/Documents/code9/content/img/logo.png"
+   inkscape:export-filename="/home/mxc/Documents/code9/res/site-icon.png"
    inkscape:export-xdpi="416.95001"
    inkscape:export-ydpi="416.95001"
    sodipodi:docname="cc9.svg">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.9399788"
-     inkscape:cx="74.79863"
+     inkscape:cx="37.622724"
      inkscape:cy="-10.695603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,68 +60,60 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-124.85742,-362.43137)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4136-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(0.38012266,0.3092512)"><flowRegion
-         id="flowRegion4138-4"><rect
-           id="rect4140-6"
-           width="138.92856"
-           height="60.000027"
-           x="122.85714"
-           y="359.50507"
-           style="fill:#cccccc;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'3Dumb';-inkscape-font-specification:'3Dumb, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1"
-         id="flowPara4177-1">{    9}</flowPara></flowRoot>    <g
-       transform="translate(0.24947432,0.21725024)"
-       id="g4287-9"
-       style="fill:#1a1a1a">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.81500006;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4166"
+       width="65.170036"
+       height="62"
+       x="124.42514"
+       y="362.47922"
+       inkscape:export-xdpi="743.22583"
+       inkscape:export-ydpi="743.22583" />
+    <g
+       id="g4174"
+       transform="translate(1.5666286,5.8692221)"
+       inkscape:export-xdpi="743.22583"
+       inkscape:export-ydpi="743.22583">
       <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34520149px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4154-1"
+         transform="translate(0.38012266,0.3092512)"
+         inkscape:export-ydpi="915.06"
+         inkscape:export-xdpi="915.06"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4136-8"
          xml:space="preserve"><flowRegion
-           id="flowRegion4156-7"><rect
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34520149px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-opacity:1"
-             y="361.15588"
-             x="144.53198"
-             height="75.167633"
-             width="122.03686"
-             id="rect4158-8" /></flowRegion><flowPara
-           id="flowPara4160-5">CODE</flowPara><flowPara
-           id="flowPara4162-8" /></flowRoot>      <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34500122px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4154-4-6"
-         xml:space="preserve"
-         transform="matrix(1.0954835,0,0,0.99723262,-13.88441,20.196427)"><flowRegion
-           id="flowRegion4156-2-4"><rect
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34500122px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-opacity:1"
-             y="361.15588"
-             x="144.53198"
-             height="75.167633"
-             width="122.03686"
-             id="rect4158-5-8" /></flowRegion><flowPara
-           id="flowPara4285-6">CLUB</flowPara></flowRoot>    </g>
+           id="flowRegion4138-4"><rect
+             style="fill:#cccccc;fill-opacity:1"
+             y="359.50507"
+             x="122.85714"
+             height="60.000027"
+             width="138.92856"
+             id="rect4140-6" /></flowRegion><flowPara
+           id="flowPara4177-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'3Dumb';-inkscape-font-specification:'3Dumb, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1">{9}</flowPara></flowRoot>      <g
+         transform="translate(0.34334351,0)"
+         id="g4168">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4136"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0066ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-xdpi="915.06"
+           inkscape:export-ydpi="915.06"><flowRegion
+             id="flowRegion4138"><rect
+               id="rect4140"
+               width="138.92856"
+               height="60.000027"
+               x="122.85714"
+               y="359.50507"
+               style="fill:#0066ff;fill-opacity:1" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'3Dumb';-inkscape-font-specification:'3Dumb, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0066ff;fill-opacity:1"
+             id="flowPara4177">{9}</flowPara></flowRoot>      </g>
+    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot4136"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0066ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion4138"><rect
-           id="rect4140"
-           width="138.92856"
-           height="60.000027"
-           x="122.85714"
-           y="359.50507"
-           style="fill:#0066ff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'3Dumb';-inkscape-font-specification:'3Dumb, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0066ff;fill-opacity:1"
-         id="flowPara4177">{    9}</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4144"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="915.06"
+       inkscape:export-ydpi="915.06"><flowRegion
          id="flowRegion4146"><rect
            id="rect4148"
            width="81.428574"
@@ -129,32 +121,5 @@
            x="141.42857"
            y="429.50507" /></flowRegion><flowPara
          id="flowPara4150">CODECLUB</flowPara><flowPara
-         id="flowPara4152" /></flowRoot>    <g
-       id="g4287">
-      <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34520149px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4154"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4156"><rect
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34520149px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke:none;stroke-opacity:1"
-             y="361.15588"
-             x="144.53198"
-             height="75.167633"
-             width="122.03686"
-             id="rect4158" /></flowRegion><flowPara
-           id="flowPara4160">CODE</flowPara><flowPara
-           id="flowPara4162" /></flowRoot>      <flowRoot
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34500122px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4154-4"
-         xml:space="preserve"
-         transform="matrix(1.0954835,0,0,0.99723262,-13.88441,20.196427)"><flowRegion
-           id="flowRegion4156-2"><rect
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.34500122px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke:none;stroke-opacity:1"
-             y="361.15588"
-             x="144.53198"
-             height="75.167633"
-             width="122.03686"
-             id="rect4158-5" /></flowRegion><flowPara
-           id="flowPara4285">CLUB</flowPara></flowRoot>    </g>
-  </g>
+         id="flowPara4152" /></flowRoot>  </g>
 </svg>

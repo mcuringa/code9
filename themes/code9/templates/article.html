@@ -5,9 +5,7 @@
 {% block content %}
 <section id="content" class="article content">
   <header>
-    <h2 class="entry-title">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+    <h1 class="entry-title">{{ article.title }}</h1>
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
   </header>
@@ -16,7 +14,7 @@
   <div class="entry-content">
     {{ article.content }}
   </div><!-- /.entry-content -->
-   <footer class="post-info text-muted">
+   <footer class="post-info text-muted hidden-print">
     Posted on <abbr class="published" title="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </abbr>

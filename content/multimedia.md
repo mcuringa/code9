@@ -1,7 +1,8 @@
 Title: Session 3: Making a Multimedia Project
-Date: Tue Jan  19 17:36:39 EST 2016
+Date: Wed Feb 10 15:32:25 EST 2016
 Category: Lessons
 Tags: scratch basics, scratch, Multimedia, stories, low floor-high ceiling, audio
+Author: loretod
 Summary: Coders will make a multimedia presentation to tell a story or give a presentation.
 
 Overview
@@ -24,7 +25,7 @@ Goals
 Introduction (15-20 minutes)
 -----------------------------------------
 
-Introduce the new project and show a good example (*https://scratch.mit.edu/projects/88927048/*) of a project on Scratch. Have a group discussion of what made the project desirable. "Look inside" to inspect the code, costumes, and audio clips. Discuss the basic structure of the sample and identify the beginning, middle, and end as well as story elements.
+Introduce the new project and show a good example (<https://scratch.mit.edu/projects/88927048/>) of a project on Scratch. Have a group discussion of what made the project desirable. "Look inside" to inspect the code, costumes, and audio clips. Discuss the basic structure of the sample and identify the beginning, middle, and end as well as story elements.
 
 Discuss the design process, roles, editing and revisions based on feedback. The process of collaboration in Scratch will be reviewed using the remix and backpack features.
 
@@ -48,4 +49,4 @@ Working Groups (60 minutes)
 
 ##### Advanced
 - Start working on their project.
-- Learn about `actions on click` and `showing messages`
+- Learn about programming using `click` events and timing their animations using `broadcast messages`

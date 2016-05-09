@@ -1,5 +1,5 @@
 Title: Session 5: Recap
-Date: Thur Feb  18 17:36:39 EST 2016
+Date: Fri Feb 19 12:02:38 EST 2016
 Category: Lessons
 Tags: scratch basics, scratch, Multimedia, stories, low floor-high ceiling, audio
 Summary: Coders continued working on their multimedia projects and shared what they know.
